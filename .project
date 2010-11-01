@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>idl_service</name>
+	<comment></comment>
+	<projects>
+		<project>Heroku</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+		<nature>org.radrails.rails.core.railsnature</nature>
+	</natures>
+</projectDescription>
